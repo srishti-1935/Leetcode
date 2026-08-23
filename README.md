@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/srishti-1935/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/srishti-1935/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/srishti-1935/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/srishti-1935/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/srishti-1935/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/srishti-1935/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srishti-1935/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/srishti-1935/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/srishti-1935/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/srishti-1935/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/srishti-1935/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srishti-1935/Leetcode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srishti-1935/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/srishti-1935/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/srishti-1935/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/srishti-1935/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srishti-1935/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
