@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srishti-1935/Leetcode/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/srishti-1935/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/srishti-1935/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/srishti-1935/Leetcode/tree/master/1563-stone-game-v) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srishti-1935/Leetcode/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/srishti-1935/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srishti-1935/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/srishti-1935/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
