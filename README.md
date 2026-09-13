@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srishti-1935/Leetcode/tree/master/0001-two-sum) |
+| [0835-image-overlap](https://github.com/srishti-1935/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/srishti-1935/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/srishti-1935/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/srishti-1935/Leetcode/tree/master/1563-stone-game-v) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/srishti-1935/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/srishti-1935/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
